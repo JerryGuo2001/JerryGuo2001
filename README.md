@@ -24,7 +24,6 @@ I'm a cognitive science researcher and creative developer who builds interactive
 
 ![Jerry's GitHub stats](https://github-readme-stats.vercel.app/api?username=JerryGuo2001&show_icons=true&theme=default)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JerryGuo2001&layout=compact)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=JerryGuo2001)
 
 ---
 
