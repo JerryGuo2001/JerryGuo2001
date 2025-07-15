@@ -27,6 +27,11 @@ I'm a cognitive science researcher and creative developer who builds interactive
 
 ---
 
+## 👋 About Me
+
+Check out my [GitHub profile]([https://github.com/yourusername](https://jerryguo2001.github.io/vmps_mario/)) for more projects!
+
+
 ### 📫 Reach Me
 - Email: jerry.guo2001@gmail.com  
 ---
