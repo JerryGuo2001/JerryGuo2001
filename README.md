@@ -1,6 +1,6 @@
 ## 👋 Hi, I'm Jerry!
 
-I'm a cognitive science researcher and creative developer who builds interactive experiments, memory games, and machine learning models. I recently graduated 🎓 from UC Irvine (Class of 2025) with a B.S. in Psychology, and I'm passionate about combining behavioral science with code.
+I'm a cognitive science researcher and creative developer who builds interactive experiments, memory games, and machine learning models. I recently graduated 🎓 from UC Irvine (Class of 2025) with a B.S. in Psychology(Honors), and I'm passionate about combining behavioral science with code.
 
 ---
 
