@@ -28,7 +28,7 @@ I'm a cognitive science researcher and creative developer who builds interactive
 ---
 
 ### 📫 Reach Me
-- Email: jerry.guo2001@gmail.com  
+- Email: jerryguo315@gmail.com  
 ---
 
 Thanks for stopping by 🧠💡
